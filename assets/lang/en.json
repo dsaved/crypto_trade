@@ -1,0 +1,16 @@
+{
+  "app_name": "CRYPTO TRADE",
+  "other_app_name": "CRYPTO TRADE",
+  "cancel_text": "Cancel",
+  "unlock": "Unlock",
+  "home": "Home",
+  "trading": "Trading",
+  "history": "History",
+  "settings": "Settings",
+  "confirm_text": "Confirm",
+  "ok_text": "Okay",
+  "currency_warning": "If base currency is changed, you will have to update all trades. Note: current trading transaction will not use new currency",
+  "error_executing_request": "Error Executing Request",
+  "hint": "The best trading strategy is double trading with the top performing crypto",
+  "please_wait": "Please Wait..."
+}
